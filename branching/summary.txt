@@ -1,1 +1,3 @@
 A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version.
+
+Init creates a new subdirectory named .git that contains all of your necessary repository files — a Git repository skeleton.
